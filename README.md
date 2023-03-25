@@ -17,6 +17,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ---
 
+### 🙂 Social
+
    <p align="left">
      <a href="https://www.instagram.com/leiman_18/">
        <img alt="insta logo" title="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
