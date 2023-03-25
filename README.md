@@ -18,14 +18,18 @@ I'm an indie full-stack developer and content creator building my version of the
 ---
 
    <p align="left">
-      <a href="https://www.instagram.com/leiman_18/">
-         <img alt="youtube subscribers" title="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/Leyman-18?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Leyman-18?tab=repositories&q=&type=&language=&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+     <a href="https://www.instagram.com/leiman_18/">
+       <img alt="insta logo" title="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+     </a>
+     <a href="https://twitter.com/Leiman18">
+       <img alt="twitter logo" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+     </a> 
+     <a href = "mailto:leimancs@gmail.com">
+       <img alt="gmail logo" title="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+     </a>
+     <a href="https://www.linkedin.com/in/leyman-carrillo-serrano-989690211/">
+       <img alt="linkedin logo" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+     </a> 
    </p>
 
 ---
