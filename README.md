@@ -17,6 +17,27 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ---
 
+<div align="center"> 
+  <a href="https://www.instagram.com/santander_iglesias/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   </a>
+ 	<a href="https://www.twitch.tv/incognitobinario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  </a>
+  <a href="https://twitter.com/santanderiglesi"_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+   </a> 
+  <a href = "mailto:santander12342011@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+   </a>
+  <a href="https://www.linkedin.com/in/santander-iglesias/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a> 
+  
+</div>
+
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
