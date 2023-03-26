@@ -21,6 +21,9 @@
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
+</p>
+  
+  
 <br/>
 
 <!-- Social badges section -->
