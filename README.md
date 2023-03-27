@@ -52,7 +52,7 @@
   </p>
 </details>
 
-<details> 
+<details align="center"> 
   <summary><h2>📺 Latest YouTube Videos (Coming soon)</h2></summary>
 
   <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
@@ -69,7 +69,7 @@
   
 </details>
 
-<details> 
+<details align="center"> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -175,7 +175,7 @@
   </p>
 </details>
 
-<details> 
+<details align="center"> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
