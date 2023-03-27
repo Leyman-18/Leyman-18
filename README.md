@@ -206,11 +206,4 @@
 
 </details> 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-</picture>
-
-![snake gif](https://github.com/Leyman-18/Leyman-18/blob/output/github-contribution-grid-snake.gif)
-  
+<img src="https://raw.githubusercontent.com/Leyman-18/Leyman-18/output/github-contribution-grid-snake.svg" />
