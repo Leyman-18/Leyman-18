@@ -39,6 +39,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Leyman-18/Leyman-18/output/github-contribution-grid-snake.svg" />
+</p>
+
 <details align="center"> 
   <summary><h2>📘 My Top Open Source Projects (Coming soon)</h2></summary>
 
@@ -206,8 +210,5 @@
 
 </details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Leyman-18/Leyman-18/output/github-contribution-grid-snake.svg" />
-</p>
 
 
