@@ -206,8 +206,10 @@
 
 </details> 
 
-<p>
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://github.com/Leyman-18/Leyman-18/blob/output/github-contribution-grid-snake.gif">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leyman-18/Leyman-18/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leyman-18/Leyman-18/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leyman-18/Leyman-18/output/github-contribution-grid-snake.svg">
+</picture>
 
   
