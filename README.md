@@ -39,6 +39,8 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
+---
+
 <details align="center"> 
   <summary><h2>📘 My Top Open Source Projects (Coming soon)</h2></summary>
 
@@ -204,5 +206,5 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Leyman-18&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  
+---
   
