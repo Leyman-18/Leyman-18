@@ -206,5 +206,8 @@
 
 </details> 
 
-![snake gif](https://github.com/Leyman-18/Leyman-18/blob/output/github-contribution-grid-snake.gif)
+<p>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://github.com/Leyman-18/Leyman-18/blob/output/github-contribution-grid-snake.gif">
+</p>
+
   
