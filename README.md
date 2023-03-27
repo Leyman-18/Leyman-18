@@ -39,7 +39,7 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-<details> 
+<details align="center"> 
   <summary><h2>📘 My Top Open Source Projects (Coming soon)</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
